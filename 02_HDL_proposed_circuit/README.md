@@ -2,7 +2,6 @@
 
 This folder contains the SystemVerilog source code for the implementation of the AlphaEvolve  algorithm for 4x4 real-valued matrix multiplication.
 
-** CODE IS HIDDEN AND WILL BE RELEASED AFTER THE PAPER RELATED TO THIS WORK HAS BEEN ACCEPTED**
 
 ## Contents
 - `matrix_mult_4x4_alphaevolve_dumas.sv` — SystemVerilog description of the proposed implementation of the AlphaEvolve algorithm for 4×4 real-valued matrix multiplication described in **[1]** and **[2]**.  

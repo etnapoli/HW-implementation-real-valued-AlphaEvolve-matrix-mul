@@ -27,8 +27,9 @@ Commercial use is prohibited without explicit permission from the author.
 
 ## How to Cite
 
-If you use this repository in your work, please cite it as:  
-
+If you use this repository in your work, please cite it as: 
+ 
+- Napoli E. *VLSI Implementation of AlphaEvolve Based Rank-48 Algorithm for 4×4 Real-Valued Matrix Multiplication*. 2016 IEEE 17th Latin American Symposium on Circuits & Systems (LASCAS), Arequipa, Peru. Februaru 24-27 2026.
 - Napoli, E. *Hardware Implementation of a AlphaEvolve Based Rank-48 Algorithm for 4×4 Real-Valued Matrix Multiplication*. GitHub, 2025. Available at: [https://github.com/etnapoli/Hardware-implementation-real-valued-alphaEvolve-4x4-matrixmul](https://github.com/etnapoli/Hardware-implementation-real-valued-alphaEvolve-4x4-matrixmul)
 
 
